@@ -1,4 +1,4 @@
-# facely-api - v1
+# Clariface-api - v1
 Final project for my web developer course
 
 1. Clone this repo
